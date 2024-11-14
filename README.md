@@ -1,1 +1,1 @@
-Just profile config files for my tutorial/learning org 
+Just profile config files for my Godot tutorials org 
